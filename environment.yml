@@ -5,4 +5,5 @@ channels:
 dependencies:
   - python>=3,<4
   - clingo=5.5
+  - python-clingox=1.0
   - jupyter=1.0
